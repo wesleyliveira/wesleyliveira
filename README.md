@@ -4,7 +4,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@wesleyliveira-0D1117?style=flat&logo=github)](https://github.com/wesleyliveira)  
 [![Email](https://img.shields.io/badge/Email-wesleyreisolv@gmail.com-0D1117?style=flat&logo=gmail&logoColor=white)](mailto:wesleyreisolv@gmail.com)  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-@wesleyreisz-0D1117?style=flat&logo=linkedin&logoColor=00bfbf)](https://www.linkedin.com/in/wesleyreisz/) • Salvador, BA • 
+[![Linkedin](https://img.shields.io/badge/Linkedin-@wesleyreisz-0D1117?style=flat&logo=linkedin&logoColor=00bfbf)](https://www.linkedin.com/in/wesleyreisz/) 
+• Salvador, BA • 
 
 ---
 
