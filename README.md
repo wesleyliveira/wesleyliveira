@@ -1,46 +1,71 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wesley+Reis;I+am+from+Brazil;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleyliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wesley Reis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache=?" />
+# Wesley Reis Oliveira
+
+[![GitHub](https://img.shields.io/badge/GitHub-@wesleyliveira-0D1117?style=flat&logo=github)](https://github.com/wesleyliveira)  
+[![Email](https://img.shields.io/badge/Email-wesleyreisolv@gmail.com-0D1117?style=flat&logo=gmail&logoColor=white)](mailto:wesleyreisolv@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/wesleyreis/) • Salvador, BA • (71) 9 8803-6817
+
+---
+
+## Sobre mim
+Estudante de Ciência da Computação (7º semestre) com experiência prática em desenvolvimento de software e atuação em ambientes profissionais. Tenho interesse em backend e aplicações web, trabalhando principalmente com PHP (Laravel), Python e JavaScript (Vue.js). Busco oportunidades de estágio ou posições Júnior para aplicar e ampliar minhas habilidades em projetos reais.
+
+## Principais competências
+- Linguagens: PHP (Laravel), Python, JavaScript (ES6+ / Vue.js)
+- Bancos de dados: PostgreSQL, MySQL
+- Ferramentas: Git, VSCode, conceitos de Docker
+- Práticas: versionamento com Git, controle de qualidade básico e organização de código
+
+## Experiência profissional
+- Estagiário em Desenvolvimento de Software — SERIN (2024 — presente)
+  - Implementação e manutenção de módulos em sistema interno usando Laravel e Vue.js.
+  - Criação e otimização de consultas em PostgreSQL.
+  - Versionamento de código e trabalho colaborativo via Git.
+
+- Aprendiz de Auxiliar Administrativo — Odebrecht (2021 — 2023)
+  - Suporte a rotinas administrativas nos setores de Recursos Humanos e Financeiro.
+  - Desenvolvimento de habilidades de comunicação, organização e trabalho em equipe.
+
+## Projetos selecionados
+Confira meus projetos no GitHub para ver exemplos de aplicações web, APIs e utilitários. Se quiser, posso destacar aqui links diretos para até 3 repositórios que você indicar.
+
+- Projeto A — descrição curta do projeto, tecnologias usadas e link (ex.: API em Laravel para gerenciamento X).
+- Projeto B — SPA em Vue.js com integração a backend em Laravel.
+
+> Observação: me diga quais repositórios deseja destacar e eu incluo links e descrições curtas.
+
+## Formação
+- Bacharelado em Ciência da Computação — UniRuy WYDEN (2022 — presente)
+
+## Habilidades técnicas (resumido)
+- Desenvolvimento backend com Laravel (PHP)
+- Desenvolvimento frontend com Vue.js
+- Consultas e modelagem em PostgreSQL / MySQL
+- Versionamento com Git
+
+## Idiomas
+- Português — Nativo
+- Inglês — Técnico (leitura e compreensão técnica)
+
+## Contato
+- Email: wesleyreisolv@gmail.com
+- WhatsApp: (71) 9 8803-6817
+- GitHub: https://github.com/wesleyliveira
+- LinkedIn: https://www.linkedin.com/in/wesleyreis/
+
+## Estatísticas
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleyliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+---
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wesleyliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
- 
-### Main skills:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### Frameworks:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### Database:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
- 
-### Tools:
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-111?logo=githubcopilot)
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wesleyliveira}/count.svg" /></p> 
-<br></div>
-
+Se desejar, eu posso:
+- Traduzir este README para inglês;
+- Inserir links e descrições para projetos específicos que você indicar;
+- Adicionar um botão/badge para download do seu currículo (me envie o PDF ou diga onde está hospedado);
+- Ajustar o visual (cores, imagens de capa, badges adicionais).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
