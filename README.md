@@ -28,14 +28,6 @@ Estudante de Ciência da Computação (7º semestre) com experiência prática e
   - Suporte a rotinas administrativas nos setores de Recursos Humanos e Financeiro.
   - Desenvolvimento de habilidades de comunicação, organização e trabalho em equipe.
 
-## Projetos selecionados
-Confira meus projetos no GitHub para ver exemplos de aplicações web, APIs e utilitários. Se quiser, posso destacar aqui links diretos para até 3 repositórios que você indicar.
-
-- Projeto A — descrição curta do projeto, tecnologias usadas e link (ex.: API em Laravel para gerenciamento X).
-- Projeto B — SPA em Vue.js com integração a backend em Laravel.
-
-> Observação: me diga quais repositórios deseja destacar e eu incluo links e descrições curtas.
-
 ## Formação
 - Bacharelado em Ciência da Computação — UniRuy WYDEN (2022 — presente)
 
@@ -53,13 +45,5 @@ Confira meus projetos no GitHub para ver exemplos de aplicações web, APIs e ut
 - Email: wesleyreisolv@gmail.com
 - GitHub: https://github.com/wesleyliveira
 - LinkedIn: https://www.linkedin.com/in/wesleyreisz/
-
-## Estatísticas
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleyliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03b38c&height=120&section=footer"/>
