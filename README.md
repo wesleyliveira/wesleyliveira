@@ -51,9 +51,8 @@ Confira meus projetos no GitHub para ver exemplos de aplicações web, APIs e ut
 
 ## Contato
 - Email: wesleyreisolv@gmail.com
-- WhatsApp: (71) 9 8803-6817
 - GitHub: https://github.com/wesleyliveira
-- LinkedIn: https://www.linkedin.com/in/wesleyreis/
+- LinkedIn: https://www.linkedin.com/in/wesleyreisz/
 
 ## Estatísticas
 <div align="center">
