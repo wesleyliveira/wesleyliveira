@@ -19,7 +19,7 @@ Estudante de Ciência da Computação (7º semestre) com experiência prática e
 - Práticas: versionamento com Git, controle de qualidade básico e organização de código
 
 ## Experiência profissional
-- Estagiário em Desenvolvimento de Software — SERIN (2024 — presente)
+- Estagiário em Desenvolvimento de Software — SERIN (2024 — 2025)
   - Implementação e manutenção de módulos em sistema interno usando Laravel e Vue.js.
   - Criação e otimização de consultas em PostgreSQL.
   - Versionamento de código e trabalho colaborativo via Git.
