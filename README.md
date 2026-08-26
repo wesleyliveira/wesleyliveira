@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@wesleyliveira-0D1117?style=flat&logo=github)](https://github.com/wesleyliveira)  
 [![Email](https://img.shields.io/badge/Email-wesleyreisolv@gmail.com-0D1117?style=flat&logo=gmail&logoColor=white)](mailto:wesleyreisolv@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/wesleyreis/) • Salvador, BA • (71) 9 8803-6817
+[LinkedIn](https://www.linkedin.com/in/wesleyreisz/) • Salvador, BA • 
 
 ---
 
