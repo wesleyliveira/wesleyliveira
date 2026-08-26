@@ -63,10 +63,4 @@ Confira meus projetos no GitHub para ver exemplos de aplicações web, APIs e ut
 
 ---
 
-Se desejar, eu posso:
-- Traduzir este README para inglês;
-- Inserir links e descrições para projetos específicos que você indicar;
-- Adicionar um botão/badge para download do seu currículo (me envie o PDF ou diga onde está hospedado);
-- Ajustar o visual (cores, imagens de capa, badges adicionais).
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
