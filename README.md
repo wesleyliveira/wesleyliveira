@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03b38c&height=120&section=header"/>
 
 # Wesley Reis Oliveira
 
@@ -62,4 +62,4 @@ Confira meus projetos no GitHub para ver exemplos de aplicações web, APIs e ut
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03b38c&height=120&section=footer"/>
